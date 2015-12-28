@@ -2,6 +2,7 @@ name: UniSURFity
 favicon: null
 layout_spectrum: 0.6058133838232607
 typography_spectrum: 0.03518805559724569
+title: UniSURFity
 cta:
   domain: null
   bucket: null
