@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.unisurfity.com'
-  name: 'UniSURFity - Surf Coaching & Surf Trips for Experienced Surfers'
-  favicon: 'https://static.parastorage.com/client/pfavico.ico'
-  domain: www.unisurfity.com
-keywords: []
-description: 'Take your surfing to the next level. Surf trips & training for intermediate to competitive surfers from 1 or only 6 ASI Master coaches in the world.'
-app_links: []
-isBasedOnUrl: 'http://www.unisurfity.com/'
-title: 'UniSURFity - Surf Coaching & Surf Trips for Experienced Surfers'
-datePublished: '2015-12-28T19:06:49.436Z'
-dateModified: '2015-12-28T19:04:45.561Z'
-sourcePath: _posts/2015-12-28-unisurfity-surf-coaching-and-surf-trips-for-experienced-surf.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.unisurfity.com/'
+inLanguage: null
+starred: true
+keywords: []
+description: 'Take your surfing to the next level. Surf trips & training for intermediate to competitive surfers from 1 or only 6 ASI Master coaches in the world.'
+datePublished: '2015-12-28T19:29:44.255Z'
+dateModified: '2015-12-28T19:18:27.079Z'
+author: []
+related: []
+app_links: []
+title: 'UniSURFity - Surf Coaching & Surf Trips for Experienced Surfers'
+sourcePath: _posts/2015-12-28-unisurfity-surf-coaching-and-surf-trips-for-experienced-surf.md
+published: true
+authors: []
+publisher:
+  name: 'UniSURFity - Surf Coaching & Surf Trips for Experienced Surfers'
+  domain: www.unisurfity.com
+  url: 'http://www.unisurfity.com'
+  favicon: 'https://static.parastorage.com/client/pfavico.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
