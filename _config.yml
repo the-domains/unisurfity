@@ -1,6 +1,6 @@
 name: UniSURFity
 favicon: null
-layout_spectrum: 0.6058133838232607
+layout_spectrum: 0.25712
 typography_spectrum: 0.03518805559724569
 title: UniSURFity
 cta:
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.13673315034247935
+  brandStrength: 1
   lightness: 0.27153324731625617
-  saturation: 0.7085784752853215
+  saturation: 0
   rhythmicContrast: 0.8189411906059831
 purpose: []
